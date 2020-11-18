@@ -1,0 +1,30 @@
+$primary: #4abdac;
+$font-color: #dfdce3;
+
+.body {
+  padding-top: 1em;
+  background-color: $font-color;
+}
+
+nav {
+  background-color: $primary;
+}
+
+footer {
+  background-color: $primary;
+  color: white;
+  font-weight: bold;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+  :hover {
+    filter: brightness(85%);
+  }
+}
+
+.jumbotron {
+  background-color: #fc4a1a;
+  color: white;
+}
