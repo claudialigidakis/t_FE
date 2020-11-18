@@ -26,16 +26,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `npm run server` or `yarn server`
-
-Runs the backend server ([src/server.js](src/server.js)) at http://localhost:8080.
-
-To verify it is running, in a different shell, you can do:
-
-```bash
-$ curl http://localhost:8080/health
-OK
 ```
 
 ### Starter Kit Functional
